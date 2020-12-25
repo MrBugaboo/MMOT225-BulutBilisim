@@ -1,2 +1,2 @@
-#Odev 6
+# Odev 6  
 Data çekip gösteren uygulama
